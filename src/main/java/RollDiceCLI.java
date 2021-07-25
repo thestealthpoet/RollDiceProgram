@@ -34,7 +34,7 @@ public class RollDiceCLI {
                     System.out.println("That is a not a valid option. Try again.");
 
                 //System.out.println("Would you like to roll again? (Y/N)>>>");
-                //String repeatChoice = userInput.nextLine();
+
             }
             }
 
